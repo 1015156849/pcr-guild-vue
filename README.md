@@ -1,20 +1,10 @@
 # pcr (pcr)
 
-pcr
+![Build](https://github.com/mnixry/pcr-guild-vue/workflows/Build%20Website%20File/badge.svg)
 
 ## Install the dependencies
 ```bash
 npm install
-```
-
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
-```
-
-### Lint the files
-```bash
-npm run lint
 ```
 
 ### Build the app for production
@@ -22,5 +12,4 @@ npm run lint
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+### 说明详见 [pcr-guild-django](https://github.com/CJowo/pcr-guild-django/)
